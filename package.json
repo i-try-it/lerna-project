@@ -1,0 +1,23 @@
+{
+  "name": "lerna-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lerna-init": "node ./node_modules/lerna/bin/lerna.js init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-try-it/lerna-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-try-it/lerna-project/issues"
+  },
+  "homepage": "https://github.com/i-try-it/lerna-project#readme",
+  "devDependencies": {
+    "lerna": "^2.8.0"
+  }
+}
